@@ -1,3 +1,3 @@
-Um simples organizador de ordem de items feito com JS:
+Um simples organizador de ordem de itens feito com JS:
 
 Veja em: https://laerciolopesll.github.io/dragdroptest/
