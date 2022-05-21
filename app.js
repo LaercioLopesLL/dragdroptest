@@ -1,4 +1,4 @@
-let itens = [
+const itens = [
     {id: 1, nome: 'Item 1', sequencia: 1},
     {id: 2, nome: 'Item 2', sequencia: 2},
     {id: 3, nome: 'Item 3', sequencia: 3},
